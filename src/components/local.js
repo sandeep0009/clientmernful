@@ -1,1 +1,1 @@
-export const localhost="https://backendmernfull.onrender.com/"
+export const localhost="https://backendmernfull.onrender.com"
